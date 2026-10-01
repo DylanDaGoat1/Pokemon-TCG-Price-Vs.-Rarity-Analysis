@@ -1,0 +1,229 @@
+id,name,set,rarity,illustrator,hp,types,price_usd
+base1-1,Alakazam,Base Set,Rare,Ken Sugimori,80.0,['Psychic'],69.33
+base1-2,Blastoise,Base Set,Rare,Ken Sugimori,100.0,['Water'],222.34
+base1-3,Chansey,Base Set,Rare,Ken Sugimori,120.0,['Colorless'],57.57
+base1-4,Charizard,Base Set,Rare,Mitsuhiro Arita,120.0,['Fire'],944.53
+base1-5,Clefairy,Base Set,Rare,Ken Sugimori,40.0,['Colorless'],52.79
+base1-6,Gyarados,Base Set,Rare,Mitsuhiro Arita,100.0,['Water'],44.98
+base1-7,Hitmonchan,Base Set,Rare,Ken Sugimori,70.0,['Fighting'],19.85
+base1-8,Machamp,Base Set,Rare,Ken Sugimori,100.0,['Fighting'],12.92
+base1-9,Magneton,Base Set,Rare,Keiji Kinebuchi,60.0,['Lightning'],36.43
+base1-10,Mewtwo,Base Set,Rare,Ken Sugimori,60.0,['Psychic'],89.01
+base1-11,Nidoking,Base Set,Rare,Ken Sugimori,90.0,['Grass'],38.94
+base1-12,Ninetales,Base Set,Rare,Ken Sugimori,80.0,['Fire'],37.7
+base1-13,Poliwrath,Base Set,Rare,Ken Sugimori,90.0,['Water'],35.79
+base1-14,Raichu,Base Set,Rare,Ken Sugimori,80.0,['Lightning'],67.47
+base1-15,Venusaur,Base Set,Rare,Mitsuhiro Arita,100.0,['Grass'],173.95
+base1-16,Zapdos,Base Set,Rare,Ken Sugimori,90.0,['Lightning'],46.41
+base1-17,Beedrill,Base Set,Rare,Ken Sugimori,80.0,['Grass'],5.78
+base1-18,Dragonair,Base Set,Rare,Mitsuhiro Arita,80.0,['Colorless'],19.09
+base1-19,Dugtrio,Base Set,Rare,Keiji Kinebuchi,70.0,['Fighting'],11.15
+base1-20,Electabuzz,Base Set,Rare,Ken Sugimori,70.0,['Lightning'],10.07
+base1-21,Electrode,Base Set,Rare,Keiji Kinebuchi,80.0,['Lightning'],7.63
+base1-22,Pidgeotto,Base Set,Rare,Ken Sugimori,60.0,['Colorless'],9.72
+base1-23,Arcanine,Base Set,Uncommon,Ken Sugimori,100.0,['Fire'],3.81
+base1-24,Charmeleon,Base Set,Uncommon,Mitsuhiro Arita,80.0,['Fire'],3.83
+base1-25,Dewgong,Base Set,Uncommon,Mitsuhiro Arita,80.0,['Water'],3.97
+base1-26,Dratini,Base Set,Uncommon,Ken Sugimori,40.0,['Colorless'],2.74
+base1-27,Farfetch'd,Base Set,Uncommon,Ken Sugimori,50.0,['Colorless'],1.42
+base1-28,Growlithe,Base Set,Uncommon,Ken Sugimori,60.0,['Fire'],1.44
+base1-29,Haunter,Base Set,Uncommon,Keiji Kinebuchi,60.0,['Psychic'],2.59
+base1-30,Ivysaur,Base Set,Uncommon,Ken Sugimori,60.0,['Grass'],6.5
+base1-31,Jynx,Base Set,Uncommon,Ken Sugimori,70.0,['Psychic'],0.95
+base1-32,Kadabra,Base Set,Uncommon,Ken Sugimori,60.0,['Psychic'],2.78
+base1-33,Kakuna,Base Set,Uncommon,Keiji Kinebuchi,80.0,['Grass'],1.46
+base1-34,Machoke,Base Set,Uncommon,Ken Sugimori,80.0,['Fighting'],0.84
+base1-35,Magikarp,Base Set,Uncommon,Mitsuhiro Arita,30.0,['Water'],2.89
+base1-36,Magmar,Base Set,Uncommon,Ken Sugimori,50.0,['Fire'],3.37
+base1-37,Nidorino,Base Set,Uncommon,Mitsuhiro Arita,60.0,['Grass'],3.16
+base1-38,Poliwhirl,Base Set,Uncommon,Ken Sugimori,60.0,['Water'],1.78
+base1-39,Porygon,Base Set,Uncommon,Tomoaki Imakuni,30.0,['Colorless'],3.15
+base1-40,Raticate,Base Set,Uncommon,Ken Sugimori,60.0,['Colorless'],2.54
+base1-41,Seel,Base Set,Uncommon,Ken Sugimori,60.0,['Water'],1.23
+base1-42,Wartortle,Base Set,Uncommon,Ken Sugimori,70.0,['Water'],4.85
+base1-43,Abra,Base Set,Common,Mitsuhiro Arita,30.0,['Psychic'],1.58
+base1-44,Bulbasaur,Base Set,Common,Mitsuhiro Arita,40.0,['Grass'],3.37
+base1-45,Caterpie,Base Set,Common,Ken Sugimori,40.0,['Grass'],0.99
+base1-46,Charmander,Base Set,Common,Mitsuhiro Arita,50.0,['Fire'],2.66
+base1-47,Diglett,Base Set,Common,Keiji Kinebuchi,30.0,['Fighting'],0.73
+base1-48,Doduo,Base Set,Common,Mitsuhiro Arita,50.0,['Colorless'],1.19
+base1-49,Drowzee,Base Set,Common,Ken Sugimori,50.0,['Psychic'],0.8
+base1-50,Gastly,Base Set,Common,Keiji Kinebuchi,30.0,['Psychic'],1.27
+base1-51,Koffing,Base Set,Common,Mitsuhiro Arita,50.0,['Grass'],0.86
+base1-52,Machop,Base Set,Common,Mitsuhiro Arita,50.0,['Fighting'],0.55
+base1-53,Magnemite,Base Set,Common,Keiji Kinebuchi,40.0,['Lightning'],0.81
+base1-54,Metapod,Base Set,Common,Ken Sugimori,70.0,['Grass'],1.43
+base1-55,Nidoran♂,Base Set,Common,Ken Sugimori,40.0,['Grass'],0.8
+base1-56,Onix,Base Set,Common,Ken Sugimori,90.0,['Fighting'],1.02
+base1-57,Pidgey,Base Set,Common,Ken Sugimori,40.0,['Colorless'],1.81
+base1-58,Pikachu,Base Set,Common,Mitsuhiro Arita,40.0,['Lightning'],11.54
+base1-59,Poliwag,Base Set,Common,Ken Sugimori,40.0,['Water'],0.92
+base1-60,Ponyta,Base Set,Common,Ken Sugimori,40.0,['Fire'],0.64
+base1-61,Rattata,Base Set,Common,Mitsuhiro Arita,30.0,['Colorless'],0.94
+base1-62,Sandshrew,Base Set,Common,Ken Sugimori,40.0,['Fighting'],0.84
+base1-63,Squirtle,Base Set,Common,Mitsuhiro Arita,40.0,['Water'],6.31
+base1-64,Starmie,Base Set,Common,Keiji Kinebuchi,60.0,['Water'],0.75
+base1-65,Staryu,Base Set,Common,Keiji Kinebuchi,40.0,['Water'],0.76
+base1-66,Tangela,Base Set,Common,Mitsuhiro Arita,50.0,['Grass'],0.78
+base1-67,Voltorb,Base Set,Common,Keiji Kinebuchi,40.0,['Lightning'],3.95
+base1-68,Vulpix,Base Set,Common,Ken Sugimori,50.0,['Fire'],0.85
+base1-69,Weedle,Base Set,Common,Mitsuhiro Arita,40.0,['Grass'],0.64
+base1-70,Clefairy Doll,Base Set,Rare,Keiji Kinebuchi,10.0,,8.86
+base1-71,Computer Search,Base Set,Rare,Keiji Kinebuchi,,,3.75
+base1-72,Devolution Spray,Base Set,Rare,Keiji Kinebuchi,,,6.3
+base1-73,Impostor Professor Oak,Base Set,Rare,Ken Sugimori,,,6.39
+base1-74,Item Finder,Base Set,Rare,Keiji Kinebuchi,,,8.94
+base1-75,Lass,Base Set,Rare,Ken Sugimori,,,3.79
+base1-76,Pokémon Breeder,Base Set,Rare,Ken Sugimori,,,6.67
+base1-77,Pokémon Trader,Base Set,Rare,Ken Sugimori,,,4.66
+base1-78,Scoop Up,Base Set,Rare,Keiji Kinebuchi,,,8.14
+base1-79,Super Energy Removal,Base Set,Rare,Keiji Kinebuchi,,,3.4
+base1-80,Defender,Base Set,Uncommon,Keiji Kinebuchi,,,1.17
+base1-81,Energy Retrieval,Base Set,Uncommon,Keiji Kinebuchi,,,0.63
+base1-82,Full Heal,Base Set,Uncommon,Keiji Kinebuchi,,,1.73
+base1-83,Maintenance,Base Set,Uncommon,Keiji Kinebuchi,,,3.26
+base1-84,PlusPower,Base Set,Uncommon,Keiji Kinebuchi,,,0.59
+base1-85,Pokémon Center,Base Set,Uncommon,Keiji Kinebuchi,,,1.71
+base1-86,Pokémon Flute,Base Set,Uncommon,Keiji Kinebuchi,,,2.83
+base1-87,Pokédex,Base Set,Uncommon,Keiji Kinebuchi,,,0.57
+base1-88,Professor Oak,Base Set,Uncommon,Ken Sugimori,,,1.83
+base1-89,Revive,Base Set,Uncommon,Keiji Kinebuchi,,,2.7
+base1-90,Super Potion,Base Set,Uncommon,Keiji Kinebuchi,,,0.35
+base1-91,Bill,Base Set,Common,Ken Sugimori,,,0.41
+base1-92,Energy Removal,Base Set,Common,Keiji Kinebuchi,,,0.45
+base1-93,Gust of Wind,Base Set,Common,Keiji Kinebuchi,,,0.35
+base1-94,Potion,Base Set,Common,Keiji Kinebuchi,,,0.38
+base1-95,Switch,Base Set,Common,Keiji Kinebuchi,,,0.43
+base1-96,Double Colorless Energy,Base Set,Uncommon,Keiji Kinebuchi,,,6.3
+base1-97,Fighting Energy,Base Set,Common,Keiji Kinebuchi,,,0.37
+base1-98,Fire Energy,Base Set,Common,Keiji Kinebuchi,,,0.41
+base1-99,Grass Energy,Base Set,Common,Keiji Kinebuchi,,,0.4
+base1-100,Lightning Energy,Base Set,Common,Keiji Kinebuchi,,,0.49
+base1-101,Psychic Energy,Base Set,Common,Keiji Kinebuchi,,,0.67
+base1-102,Water Energy,Base Set,Common,Keiji Kinebuchi,,,0.43
+base2-1,Clefable,Jungle,Rare,Mitsuhiro Arita,70.0,['Colorless'],119.1
+base2-2,Electrode,Jungle,Rare,Mitsuhiro Arita,90.0,['Lightning'],69.11
+base2-3,Flareon,Jungle,Rare,Kagemaru Himeno,70.0,['Fire'],325.0
+base2-4,Jolteon,Jungle,Rare,Kagemaru Himeno,70.0,['Lightning'],271.74
+base2-5,Kangaskhan,Jungle,Rare,Mitsuhiro Arita,90.0,['Colorless'],83.01
+base2-6,Mr. Mime,Jungle,Rare,Ken Sugimori,40.0,['Psychic'],146.01
+base2-7,Nidoqueen,Jungle,Rare,Ken Sugimori,90.0,['Grass'],121.28
+base2-8,Pidgeot,Jungle,Rare,Kagemaru Himeno,80.0,['Colorless'],159.66
+base2-9,Pinsir,Jungle,Rare,Kagemaru Himeno,60.0,['Grass'],88.13
+base2-10,Scyther,Jungle,Rare,Ken Sugimori,70.0,['Grass'],158.85
+base2-11,Snorlax,Jungle,Rare,Ken Sugimori,90.0,['Colorless'],313.5
+base2-12,Vaporeon,Jungle,Rare,Kagemaru Himeno,80.0,['Water'],177.75
+base2-13,Venomoth,Jungle,Rare,Ken Sugimori,70.0,['Grass'],94.33
+base2-14,Victreebel,Jungle,Rare,Ken Sugimori,80.0,['Grass'],121.74
+base2-15,Vileplume,Jungle,Rare,Keiji Kinebuchi,80.0,['Grass'],89.71
+base2-16,Wigglytuff,Jungle,Rare,Mitsuhiro Arita,80.0,['Colorless'],84.95
+base2-17,Clefable,Jungle,Rare,Mitsuhiro Arita,70.0,['Colorless'],15.49
+base2-18,Electrode,Jungle,Rare,Mitsuhiro Arita,90.0,['Lightning'],52.99
+base2-19,Flareon,Jungle,Rare,Kagemaru Himeno,70.0,['Fire'],49.53
+base2-20,Jolteon,Jungle,Rare,Kagemaru Himeno,70.0,['Lightning'],59.22
+base2-21,Kangaskhan,Jungle,Rare,Mitsuhiro Arita,90.0,['Colorless'],19.93
+base2-22,Mr. Mime,Jungle,Rare,Ken Sugimori,40.0,['Psychic'],19.47
+base2-23,Nidoqueen,Jungle,Rare,Ken Sugimori,90.0,['Grass'],23.1
+base2-24,Pidgeot,Jungle,Rare,Kagemaru Himeno,80.0,['Colorless'],22.58
+base2-25,Pinsir,Jungle,Rare,Kagemaru Himeno,60.0,['Grass'],18.12
+base2-26,Scyther,Jungle,Rare,Ken Sugimori,70.0,['Grass'],30.56
+base2-27,Snorlax,Jungle,Rare,Ken Sugimori,90.0,['Colorless'],78.89
+base2-28,Vaporeon,Jungle,Rare,Kagemaru Himeno,80.0,['Water'],41.49
+base2-29,Venomoth,Jungle,Rare,Ken Sugimori,70.0,['Grass'],13.44
+base2-30,Victreebel,Jungle,Rare,Ken Sugimori,80.0,['Grass'],15.93
+base2-31,Vileplume,Jungle,Rare,Keiji Kinebuchi,80.0,['Grass'],16.25
+base2-32,Wigglytuff,Jungle,Rare,Mitsuhiro Arita,80.0,['Colorless'],21.65
+base2-33,Butterfree,Jungle,Uncommon,Kagemaru Himeno,70.0,['Grass'],13.36
+base2-34,Dodrio,Jungle,Uncommon,Mitsuhiro Arita,70.0,['Colorless'],4.96
+base2-35,Exeggutor,Jungle,Uncommon,Kagemaru Himeno,80.0,['Grass'],5.66
+base2-36,Fearow,Jungle,Uncommon,Mitsuhiro Arita,70.0,['Colorless'],3.86
+base2-37,Gloom,Jungle,Uncommon,Keiji Kinebuchi,60.0,['Grass'],4.74
+base2-38,Lickitung,Jungle,Uncommon,Mitsuhiro Arita,90.0,['Colorless'],7.33
+base2-39,Marowak,Jungle,Uncommon,Mitsuhiro Arita,60.0,['Fighting'],11.0
+base2-40,Nidorina,Jungle,Uncommon,Ken Sugimori,70.0,['Grass'],3.84
+base2-41,Parasect,Jungle,Uncommon,Ken Sugimori,60.0,['Grass'],2.93
+base2-42,Persian,Jungle,Uncommon,Kagemaru Himeno,70.0,['Colorless'],10.29
+base2-43,Primeape,Jungle,Uncommon,Kagemaru Himeno,70.0,['Fighting'],6.02
+base2-44,Rapidash,Jungle,Uncommon,Mitsuhiro Arita,70.0,['Fire'],9.36
+base2-45,Rhydon,Jungle,Uncommon,Kagemaru Himeno,100.0,['Fighting'],10.94
+base2-46,Seaking,Jungle,Uncommon,Kagemaru Himeno,70.0,['Water'],4.81
+base2-47,Tauros,Jungle,Uncommon,Kagemaru Himeno,60.0,['Colorless'],6.08
+base2-48,Weepinbell,Jungle,Uncommon,Kagemaru Himeno,70.0,['Grass'],3.69
+base2-49,Bellsprout,Jungle,Common,Kagemaru Himeno,40.0,['Grass'],2.76
+base2-50,Cubone,Jungle,Common,Mitsuhiro Arita,40.0,['Fighting'],13.05
+base2-51,Eevee,Jungle,Common,Kagemaru Himeno,50.0,['Colorless'],14.93
+base2-52,Exeggcute,Jungle,Common,Mitsuhiro Arita,50.0,['Grass'],2.52
+base2-53,Goldeen,Jungle,Common,Kagemaru Himeno,40.0,['Water'],2.63
+base2-54,Jigglypuff,Jungle,Common,Kagemaru Himeno,60.0,['Colorless'],7.06
+base2-55,Mankey,Jungle,Common,Kagemaru Himeno,30.0,['Fighting'],1.98
+base2-56,Meowth,Jungle,Common,Mitsuhiro Arita,50.0,['Colorless'],5.42
+base2-57,Nidoran♀,Jungle,Common,Ken Sugimori,60.0,['Grass'],
+base2-58,Oddish,Jungle,Common,Keiji Kinebuchi,50.0,['Grass'],3.02
+base2-59,Paras,Jungle,Common,Ken Sugimori,40.0,['Grass'],2.03
+base2-60,Pikachu,Jungle,Common,Ken Sugimori,50.0,['Lightning'],25.96
+base2-61,Rhyhorn,Jungle,Common,Mitsuhiro Arita,70.0,['Fighting'],2.71
+base2-62,Spearow,Jungle,Common,Mitsuhiro Arita,50.0,['Colorless'],2.23
+base2-63,Venonat,Jungle,Common,Mitsuhiro Arita,40.0,['Grass'],2.09
+base2-64,Poké Ball,Jungle,Common,Keiji Kinebuchi,,,1.2
+base3-1,Aerodactyl,Fossil,Rare,Kagemaru Himeno,60.0,['Fighting'],92.55
+base3-2,Articuno,Fossil,Rare,Mitsuhiro Arita,70.0,['Water'],201.27
+base3-3,Ditto,Fossil,Rare,Keiji Kinebuchi,50.0,['Colorless'],131.99
+base3-4,Dragonite,Fossil,Rare,Kagemaru Himeno,100.0,['Colorless'],470.17
+base3-5,Gengar,Fossil,Rare,Keiji Kinebuchi,80.0,['Psychic'],663.25
+base3-6,Haunter,Fossil,Rare,Ken Sugimori,50.0,['Psychic'],169.82
+base3-7,Hitmonlee,Fossil,Rare,Ken Sugimori,60.0,['Fighting'],95.34
+base3-8,Hypno,Fossil,Rare,Ken Sugimori,90.0,['Psychic'],96.07
+base3-9,Kabutops,Fossil,Rare,Ken Sugimori,60.0,['Fighting'],118.88
+base3-10,Lapras,Fossil,Rare,Ken Sugimori,80.0,['Water'],218.86
+base3-11,Magneton,Fossil,Rare,Ken Sugimori,80.0,['Lightning'],63.29
+base3-12,Moltres,Fossil,Rare,Mitsuhiro Arita,70.0,['Fire'],197.91
+base3-13,Muk,Fossil,Rare,Mitsuhiro Arita,70.0,['Grass'],65.53
+base3-14,Raichu,Fossil,Rare,Mitsuhiro Arita,90.0,['Lightning'],133.79
+base3-15,Zapdos,Fossil,Rare,Mitsuhiro Arita,80.0,['Lightning'],172.4
+base3-16,Aerodactyl,Fossil,Rare,Kagemaru Himeno,60.0,['Fighting'],23.78
+base3-17,Articuno,Fossil,Rare,Mitsuhiro Arita,70.0,['Water'],33.87
+base3-18,Ditto,Fossil,Rare,Keiji Kinebuchi,50.0,['Colorless'],23.07
+base3-19,Dragonite,Fossil,Rare,Kagemaru Himeno,100.0,['Colorless'],98.66
+base3-20,Gengar,Fossil,Rare,Keiji Kinebuchi,80.0,['Psychic'],116.42
+base3-21,Haunter,Fossil,Rare,Ken Sugimori,50.0,['Psychic'],25.98
+base3-22,Hitmonlee,Fossil,Rare,Ken Sugimori,60.0,['Fighting'],14.72
+base3-23,Hypno,Fossil,Rare,Ken Sugimori,90.0,['Psychic'],17.33
+base3-24,Kabutops,Fossil,Rare,Ken Sugimori,60.0,['Fighting'],23.71
+base3-25,Lapras,Fossil,Rare,Ken Sugimori,80.0,['Water'],29.76
+base3-26,Magneton,Fossil,Rare,Ken Sugimori,80.0,['Lightning'],13.7
+base3-27,Moltres,Fossil,Rare,Mitsuhiro Arita,70.0,['Fire'],30.58
+base3-28,Muk,Fossil,Rare,Mitsuhiro Arita,70.0,['Grass'],15.55
+base3-29,Raichu,Fossil,Rare,Mitsuhiro Arita,90.0,['Lightning'],24.16
+base3-30,Zapdos,Fossil,Rare,Mitsuhiro Arita,80.0,['Lightning'],28.27
+base3-31,Arbok,Fossil,Uncommon,Ken Sugimori,60.0,['Grass'],4.97
+base3-32,Cloyster,Fossil,Uncommon,Kagemaru Himeno,50.0,['Water'],4.86
+base3-33,Gastly,Fossil,Uncommon,Mitsuhiro Arita,50.0,['Psychic'],7.41
+base3-34,Golbat,Fossil,Uncommon,Kagemaru Himeno,60.0,['Grass'],6.22
+base3-35,Golduck,Fossil,Uncommon,Kagemaru Himeno,70.0,['Water'],6.58
+base3-36,Golem,Fossil,Uncommon,Kagemaru Himeno,80.0,['Fighting'],6.88
+base3-37,Graveler,Fossil,Uncommon,Kagemaru Himeno,60.0,['Fighting'],4.39
+base3-38,Kingler,Fossil,Uncommon,Kagemaru Himeno,60.0,['Water'],3.33
+base3-39,Magmar,Fossil,Uncommon,Mitsuhiro Arita,70.0,['Fire'],5.61
+base3-40,Omastar,Fossil,Uncommon,Ken Sugimori,70.0,['Water'],5.68
+base3-41,Sandslash,Fossil,Uncommon,Ken Sugimori,70.0,['Fighting'],5.96
+base3-42,Seadra,Fossil,Uncommon,Ken Sugimori,60.0,['Water'],5.15
+base3-43,Slowbro,Fossil,Uncommon,Kagemaru Himeno,60.0,['Psychic'],10.34
+base3-44,Tentacruel,Fossil,Uncommon,Kagemaru Himeno,60.0,['Water'],5.32
+base3-45,Weezing,Fossil,Uncommon,Mitsuhiro Arita,60.0,['Grass'],4.36
+base3-46,Ekans,Fossil,Common,Kagemaru Himeno,40.0,['Grass'],1.57
+base3-47,Geodude,Fossil,Common,Kagemaru Himeno,50.0,['Fighting'],2.8
+base3-48,Grimer,Fossil,Common,Mitsuhiro Arita,50.0,['Grass'],2.89
+base3-49,Horsea,Fossil,Common,Mitsuhiro Arita,40.0,['Water'],2.61
+base3-50,Kabuto,Fossil,Common,Ken Sugimori,30.0,['Fighting'],16.6
+base3-51,Krabby,Fossil,Common,Mitsuhiro Arita,50.0,['Water'],1.99
+base3-52,Omanyte,Fossil,Common,Kagemaru Himeno,40.0,['Water'],2.86
+base3-53,Psyduck,Fossil,Common,Kagemaru Himeno,50.0,['Water'],13.54
+base3-54,Shellder,Fossil,Common,Mitsuhiro Arita,30.0,['Water'],1.88
+base3-55,Slowpoke,Fossil,Common,Miki Tanaka,50.0,['Psychic'],6.58
+base3-56,Tentacool,Fossil,Common,Kagemaru Himeno,30.0,['Water'],1.47
+base3-57,Zubat,Fossil,Common,Kagemaru Himeno,40.0,['Grass'],2.07
+base3-58,Mr. Fuji,Fossil,Uncommon,Ken Sugimori,,,8.76
+base3-59,Energy Search,Fossil,Common,Keiji Kinebuchi,,,0.97
+base3-60,Gambler,Fossil,Common,Keiji Kinebuchi,,,6.68
+base3-61,Recycle,Fossil,Common,Keiji Kinebuchi,,,3.45
+base3-62,Mysterious Fossil,Fossil,Common,Keiji Kinebuchi,10.0,,1.23
